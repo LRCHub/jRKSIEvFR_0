@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "パラレルラルラ",
+  "base_artist": "夏代孝明",
+  "createdAt": "2026-01-13T16:52:01.850130Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "パラレルラルラ",
+      "artist": "夏代孝明",
+      "has_synced": false,
+      "path": "select/pl_01_パラレルラルラ_夏代孝明.txt"
+    }
+  ]
+}
